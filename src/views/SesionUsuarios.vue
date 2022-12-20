@@ -12,6 +12,7 @@
                         <input type="submit" class="boton" value="Sesión Estudiante">
                     </div>
                 </form>
+                
             </div>
         <br><center><img src="http://uleam-portafolioorganizacion.weebly.com/uploads/5/9/1/3/59139831/1507566_orig.png" width="320" height="80" ></center>
         </section>

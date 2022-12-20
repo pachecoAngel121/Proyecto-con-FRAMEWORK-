@@ -20,6 +20,7 @@
                         
                     </div>
                     <span id="c-error" aria-live="assertive"></span>
+                    
 
                     <h1>Escoja el Nivel</h1>
                     <div class="select">

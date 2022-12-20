@@ -2,6 +2,7 @@
   <div class="about">
     <form id="caja-login" action='/home' method="get" ref="login">
         <h4>Inicie sesión</h4>
+
         <input class="controls" type="email" name="correo" id="correo" placeholder="E-mail" required>
         <span id="c-error" aria-live="assertive"></span>
 
@@ -21,6 +22,7 @@
             </div>
             <h3 class="footer__copyright">Derechos reservados &copy; HorariosFacci</h3>
         </section>
+        
     </footer>
   </div>
 </template>

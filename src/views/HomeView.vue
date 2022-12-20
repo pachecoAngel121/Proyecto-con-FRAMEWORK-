@@ -10,6 +10,7 @@ import PaginaPrincipal from '@/components/PaginaPrincipal.vue'
 
 export default {
   
+  
   name: 'PaginaPrincipalView',
   components: {
     PaginaPrincipal

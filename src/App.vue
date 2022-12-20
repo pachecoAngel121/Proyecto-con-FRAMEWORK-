@@ -3,6 +3,7 @@
     <header class="hero">
     <nav class="nav container">
             <div class="nav__logo">
+              
               <router-link to="/home" class="nav__title">HorariosFacci</router-link>
             </div>
             <ul class="nav__link nav__link--menu">

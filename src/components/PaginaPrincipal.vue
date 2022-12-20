@@ -3,6 +3,7 @@
 <header class="hero">
         <nav class="nav container">          
             <div class="nav__logo">
+
             </div>
         </nav>
         <section class="hero__container container">
@@ -13,6 +14,7 @@
     </header>
     <main>
         <section class="container about">
+            
             <h4 class="subtitle">Beneficios de preferirnos</h4>
             <p> n los HORARIOS FACCI, mantente organizado durante todo el semestre. A diferencia de otras herramientas,
                  te ofrecemos plantillas totalmente personalizables,
